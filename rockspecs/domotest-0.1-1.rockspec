@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = 'Domotest'
-version = '0.1-0'
--- LuaDist source
+version = '0.1-1'
 source = {
-  tag = "0.1-0",
-  url = "git://github.com/LuaDist-testing/domotest.git"
+  url = 'git://github.com/NxSoftware/domotest.git',
+  tag = 'v0.1-1'
 }
--- Original source
--- source = {
---   url = 'git://github.com/NxSoftware/domotest.git',
---   tag = 'v0.1-0'
--- }
 description = {
   summary = 'A simple testing framework for Domoticz Lua scripts.',
   homepage = 'https://github.com/NxSoftware/domotest',
